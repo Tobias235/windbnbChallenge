@@ -1,0 +1,12 @@
+.btnForm {
+  display: grid;
+  grid-template-columns: 5fr 5fr 1fr;
+}
+
+.btnForm div {
+  align-self: center;
+}
+
+.btnForm span {
+  color: #eb5757;
+}

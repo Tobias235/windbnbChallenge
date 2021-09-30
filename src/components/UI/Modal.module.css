@@ -1,0 +1,54 @@
+.modal {
+  top: 0;
+  width: 100%;
+  height: 385px;
+  background-color: #ffffff;
+  position: fixed;
+  padding-bottom: 25px;
+  border-bottom: 2px solid white;
+}
+
+.searchForm {
+  width: 90%;
+  margin: auto;
+  margin-top: 40px;
+}
+
+span {
+  vertical-align: middle;
+}
+
+.btnForm {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  height: 55px;
+}
+
+.btnForm button {
+  text-align: start;
+  margin-left: 15px;
+}
+
+.btnForm div {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+}
+
+.iconBtn {
+  width: 130px;
+  background-color: #eb5757;
+  border-radius: 16px;
+  height: 48px;
+  text-align: center !important;
+  color: white;
+}
+
+.backdrop {
+  position: fixed;
+  top: 24rem;
+  width: 100%;
+  height: 50vh;
+  background-color: rgba(0, 0, 0, 0.75);
+  z-index: 20;
+}

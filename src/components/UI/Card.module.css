@@ -1,0 +1,54 @@
+.card {
+  overflow: hidden;
+}
+
+.imageContainer {
+  width: 100%;
+  height: 369px;
+}
+
+.cardImg {
+  width: 100%;
+  height: 100%;
+  border-radius: 24px;
+  object-fit: cover;
+}
+
+.rating {
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.rating p {
+  margin: 0px;
+}
+
+.centered span:first-of-type {
+  color: #eb5757;
+}
+
+.centered {
+  display: flex;
+}
+
+.superHost {
+  width: 100px;
+  height: 20px;
+  border: 1px solid #4f4f4f;
+  border-radius: 12px;
+  text-align: center;
+  font-size: 12px;
+}
+
+.textFont {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+}
+
+.title {
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+}

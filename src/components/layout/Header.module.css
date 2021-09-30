@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  width: 90%;
+  height: 58px;
+  background-color: transparent;
+  margin: auto;
+  margin-top: 25px;
+}
+
+.logo {
+  width: 100%;
+  margin: auto;
+}
+
+img {
+  height: 25px;
+}

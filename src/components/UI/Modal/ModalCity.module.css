@@ -1,0 +1,11 @@
+.div {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.aligned {
+  display: flex;
+  align-items: center;
+}
