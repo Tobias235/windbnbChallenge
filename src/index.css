@@ -12,3 +12,13 @@ body {
   margin: 0;
   background-color: #ffffff;
 }
+
+footer {
+  text-align: center;
+  color: #a9a9a9;
+}
+
+footer a {
+  text-decoration: none;
+  color: #a9a9a9;
+}
